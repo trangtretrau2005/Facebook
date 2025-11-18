@@ -1,0 +1,9 @@
+# Ignore logs
+logs/
+
+# Ignore secrets
+secrets/
+
+# Ignore các file hệ thống
+__pycache__/
+*.pyc

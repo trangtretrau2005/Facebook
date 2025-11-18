@@ -1,0 +1,9 @@
+pandas_gbq
+python-dotenv
+redis
+gspread
+pyyaml
+google-cloud-storage
+google-cloud-bigquery
+tqdm==4.67.1
+pyspark==3.5.0
