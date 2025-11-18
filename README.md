@@ -62,7 +62,7 @@ Facebookv1/
 
 ---
 
-## ▶ 5. Khởi chạy dự án
+##  5. Khởi chạy dự án
 
  **Chạy các lệnh bên dưới trong thư mục `Facebookv1`.**
 
@@ -87,7 +87,7 @@ make init && make up
 
 ---
 
-## 🔧 6. Các lệnh Make hỗ trợ
+##  6. Các lệnh Make hỗ trợ
 
 | Lệnh | Chức năng |
 |------|-----------|
@@ -100,7 +100,7 @@ Bạn có thể xem đầy đủ trong **Makefile**.
 
 ---
 
-## ▶️ 7. Chạy dự án
+##  7. Chạy dự án
 
 ~~~bash
 make init
