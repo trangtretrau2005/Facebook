@@ -2,7 +2,8 @@
 logs/
 
 # Ignore secrets
-secrets/
+secrets/.env
+secrets/service-account.json
 
 # Ignore các file hệ thống
 __pycache__/
